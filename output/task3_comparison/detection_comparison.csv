@@ -1,0 +1,3 @@
+Method,Detection Type,Bounding Boxes,Confidence Scores,Approach
+Haar Cascade,Frontal face detection,Yes,Not provided by basic classifier,Traditional Viola–Jones framework
+YOLO,Multiple supported object classes,Yes,Yes,Deep learning

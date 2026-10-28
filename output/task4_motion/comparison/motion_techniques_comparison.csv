@@ -1,0 +1,4 @@
+Technique,Working Principle,Output,Advantages,Limitations
+Frame Differencing,Compares consecutive frames,Binary change mask,Simple and fast,Sensitive to noise and lighting changes
+GMM Background Subtraction,Models the background over time,Foreground mask,Separates foreground from background,Affected by camera movement and shadows
+Lucas-Kanade Optical Flow,Tracks feature points between frames,Motion vectors,Estimates movement direction and displacement,Depends on visible features and reliable tracking

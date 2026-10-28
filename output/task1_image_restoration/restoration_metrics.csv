@@ -1,0 +1,7 @@
+Image,PSNR (dB),SSIM
+Gaussian Noisy,22.37,0.3696
+Gaussian Filtered,31.02,0.7992
+Median Filtered (Gaussian Noise),30.45,0.7872
+Salt-and-Pepper Noisy,19.04,0.4105
+Gaussian Filtered (Salt-and-Pepper),28.48,0.7157
+Median Filtered (Salt-and-Pepper),33.57,0.9141
